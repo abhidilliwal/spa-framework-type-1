@@ -1,0 +1,15 @@
+{
+  "name": "framework-sencha-baseui",
+  "version": "1.0.0",
+  "description": "sencha ui inspired, SPA framework",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
